@@ -101,7 +101,7 @@ int main() {
 
     // Exibir o tabuleiro com os efeitos das habilidades
     printf("Tabuleiro com Habilidades Aplicadas:\n");
-    exibirTabuleiro(tabuleiro);
+    exibirTabuleiro(tabuleiro):
 
     return 0; 
 }
