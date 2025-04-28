@@ -103,5 +103,5 @@ int main() {
     printf("Tabuleiro com Habilidades Aplicadas:\n");
     exibirTabuleiro(tabuleiro);
 
-    return 0;
+    return 0; 
 }
